@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>歡迎來到成功大學物理學系</title>
+    <title>NCKU-PHYSICS</title>
 
     <link rel="icon" type="image/png" href="images/NCKUHEP_Logo.png">
     
@@ -68,7 +68,7 @@
                         <a href="#stared">研究領域</a>
                    </li>
                     <li class="page-scroll">
-                        <a href="#contact">???s???G</a>
+                        <a href="#contact">研究成果</a>
                     </li>
 
                 </ul>
@@ -90,7 +90,7 @@
                         <br>
                         <br>
                         <br>
-                        <span class="name">NCKU High Energy Physics Lab</span>
+                        <span class="name">成功大學物理學系</span>
                         <br>
                         <br>
                         <br>
